@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/List_of_algorithms
+https://en.wikipedia.org/wiki/List_of_machine_learning_algorithms
+https://en.wikipedia.org/wiki/List_of_pathfinding_algorithms
